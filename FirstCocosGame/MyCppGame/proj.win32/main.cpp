@@ -2,6 +2,7 @@
 #include "AppDelegate.h"
 #include "cocos2d.h"
 
+// This is some very interesting code
 USING_NS_CC;
 
 int APIENTRY _tWinMain(HINSTANCE hInstance,
