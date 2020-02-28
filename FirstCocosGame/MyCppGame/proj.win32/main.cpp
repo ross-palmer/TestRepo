@@ -1,6 +1,7 @@
 #include "main.h"
 #include "AppDelegate.h"
 #include "cocos2d.h"
+// Edited by RP
 
 // This is some very interesting code
 USING_NS_CC;
